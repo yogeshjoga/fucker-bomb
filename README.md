@@ -1,8 +1,8 @@
 # fucker-bomb
-# fucker-bomb
+
 <h1 align="center">
   <br>
-  <a href="https://github.com/yogeshjoga/fucker-bomb"><img src="yogib.png" alt="fucker-bomb"></a>
+ 
   <br>
   fucker-bomb V 1.001
     <br>
